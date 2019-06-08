@@ -1,3 +1,3 @@
 (function(){
-    console.log('loaded!');
+    console.log('loaded! ' + new Date());
 })();
